@@ -12,4 +12,8 @@ body{
 .conteudo-titulo{
     text-align: center;
 }
-
+.conteudo-senha{
+    margin-top:88px;
+    background-color: #00162E;
+    padding: 24px;
+}
